@@ -19,3 +19,7 @@ This is a simple MERN stack web application that displays a list of upcoming foo
 - Shows team names, logos, and match start times
 - Clean UI with styled match cards
 - Structured MERN architecture (ready for MongoDB or auth expansion)
+
+##  Screenshot
+![image](https://github.com/user-attachments/assets/3a786685-8a45-4f0e-bd93-4c743872a548)
+
